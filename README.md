@@ -1,6 +1,5 @@
-<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucxssouza&theme=dracula)](https://twitter.com/lucxssouz)
-</p>
 ## Statistics
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
