@@ -4,12 +4,12 @@
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/lucxssouza">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamw&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxssouza&theme=merko" />
 </a>
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/lucxssouza">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamw&show_icons=true&theme=merko&line_height=27" alt="William's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucxssouza&show_icons=true&theme=merko&line_height=27" alt="Lucas Souza github stats" />
 </a>
 
 <!-- Stats Counter --->
