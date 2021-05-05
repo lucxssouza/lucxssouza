@@ -15,7 +15,4 @@
 
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lucxssouza/count.svg" />
-</p>
+
